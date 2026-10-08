@@ -1,0 +1,39 @@
+[
+  {
+    "slug": "silicon-dream",
+    "title": "硅晶之梦",
+    "englishTitle": "SILICON DREAM",
+    "category": "影像",
+    "year": "2026",
+    "duration": "01′49″",
+    "format": "在线播放 · 1280 × 720 · 30 fps",
+    "poster": "/assets/silicon-dream-cover.jpg",
+    "video": "/assets/silicon-dream.mp4",
+    "stills": [
+      "/assets/still-01.jpg",
+      "/assets/still-02.jpg",
+      "/assets/still-03.jpg"
+    ],
+    "summary": "从一次日常通勤出发，走进线路、芯片与信息的循环。",
+    "description": "房间、街道、站台。一个人进入城市的流动，镜头又从城市退向线路与芯片。劳动化为指令，指令进入网络，信息重新回到屏幕前。一次点击，让观看与被观看的边界悄然重叠。",
+    "note": "影片以定格画面切换与动态镜头交织，串联日常生活与数字系统的层层转换。",
+    "chapters": [
+      {
+        "time": 2,
+        "label": "日常 / 房间与街道"
+      },
+      {
+        "time": 26.2,
+        "label": "流动 / 进入城市"
+      },
+      {
+        "time": 58.467,
+        "label": "转换 / 线路与芯片"
+      },
+      {
+        "time": 94.767,
+        "label": "回环 / 回到屏幕前"
+      }
+    ]
+  }
+]
